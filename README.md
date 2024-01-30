@@ -1,7 +1,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Adriano-Severino&bg_color=0d080a&color=9e4c98&line=9e4c98&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-[![Typing SVG](http://readme-typing-svg.herokuapp.com/?color=F72783&size=35&center=true&cCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+ADRIANO+SEVERINO;I`M+FROM+BRAZIL+I+AM+A+SOFTWARE+ENGINEERING+STUDENT;BE+WELCOME!)](https://git/io/typing-svg)
+[![Typing SVG](http://readme-typing-svg.herokuapp.com/?color=F72783&size=35&center=true&cCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+ADRIANO+SEVERINO;I`M+FROM+BRAZIL+I+AM+A+SOFTWARE+ENGINEERING;BE+WELCOME!)](https://git/io/typing-svg)
 
 
 <picture>
