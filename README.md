@@ -29,6 +29,64 @@
 
 ---
 
+### Experiência | Experience
+
+**PT-BR**
+
+- Experiência prática no desenvolvimento de APIs e soluções backend com C# e .NET, com foco em qualidade de código e manutenção.
+- Atuação em projetos de automação e ferramentas para desenvolvedores, buscando ganho de produtividade e padronização de fluxo.
+- Vivência em iniciativas de arquitetura limpa, desacoplamento de componentes e evolução contínua de projetos.
+
+**EN**
+
+- Hands-on experience building APIs and backend solutions with C# and .NET, focused on code quality and maintainability.
+- Experience developing automation and developer tooling to improve productivity and standardize engineering workflows.
+- Practical background in clean architecture, component decoupling, and continuous project evolution.
+
+---
+
+### Formação | Education
+
+**PT-BR**
+
+- Formação em Engenharia de Software, com base sólida em fundamentos de desenvolvimento, arquitetura e boas práticas de engenharia.
+- Aprendizado contínuo em backend, linguagens de sistemas e ferramentas voltadas para produtividade técnica.
+
+**EN**
+
+- Software Engineering background with a solid foundation in software development, architecture, and engineering best practices.
+- Continuous learning path focused on backend development, systems languages, and developer productivity tools.
+
+---
+
+### Idiomas | Languages
+
+**PT-BR**
+
+- Português: nativo.
+- Inglês: uso profissional para documentação técnica, estudo e comunicação no contexto de desenvolvimento.
+
+**EN**
+
+- Portuguese: native.
+- English: professional use for technical documentation, learning, and development-related communication.
+
+---
+
+### Disponibilidade | Availability
+
+**PT-BR**
+
+- Disponível para oportunidades em backend .NET, APIs e desenvolvimento de ferramentas para desenvolvedores.
+- Interesse em colaboração remota e projetos com foco em qualidade, arquitetura e entrega contínua.
+
+**EN**
+
+- Open to opportunities in .NET backend, APIs, and developer tooling.
+- Interested in remote collaboration and projects focused on quality, architecture, and continuous delivery.
+
+---
+
 ### Stack principal
 
 <p>
@@ -61,12 +119,42 @@
 ### Estatísticas
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Adriano-Severino&show_icons=true&hide_border=true" alt="stats" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Adriano-Severino&layout=compact&hide_border=true" alt="top-langs" />
+  <picture>
+    <source
+      srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=Adriano-Severino&show_icons=true&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=Adriano-Severino&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Adriano-Severino&show_icons=true" alt="stats-theme" />
+  </picture>
+  <picture>
+    <source
+      srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Adriano-Severino&layout=compact&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Adriano-Severino&layout=compact"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Adriano-Severino&layout=compact" alt="top-langs-theme" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adriano-Severino&bg_color=ffffff&color=0A66C2&line=0A66C2&point=1f2937&area=true&hide_border=true" alt="activity-graph" />
+  <picture>
+    <source
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=Adriano-Severino&bg_color=0d1117&color=58A6FF&line=58A6FF&point=79c0ff&area=true&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=Adriano-Severino&bg_color=ffffff&color=0A66C2&line=0A66C2&point=1f2937&area=true&hide_border=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adriano-Severino&bg_color=ffffff&color=0A66C2&line=0A66C2&point=1f2937&area=true&hide_border=true" alt="activity-graph" />
+  </picture>
 </p>
 
 <p align="center">
@@ -74,20 +162,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=F72783&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+ADRIANO+SEVERINO;I%27M+FROM+BRAZIL+I+AM+A+SOFTWARE+ENGINEER;BE+WELCOME!" alt="typing-animation" />
   </a>
 </p>
-
-
-<picture>
-  <source
-    srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=Adriano-Severino&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=Adriano-Severino&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Adriano-Severino&show_icons=true" alt="stats-theme" />
-</picture>
-
 
 ---
 
